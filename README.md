@@ -1,2 +1,2 @@
 # couponduos
-<a href='www.couponduos.com'>couponduos</a>
+<a href='https://www.couponduos.com'>couponduos</a>
